@@ -1,0 +1,172 @@
+/*Body*/
+html, body {
+	height:100%;
+	overflow: hidden;
+}
+body {
+	width: 100%;
+	position: relative;
+	background-image: url("/public/images/bg.gif");
+    background-repeat: repeat-x;
+	
+}
+
+
+
+/* BG */
+
+#image
+{
+       position: relative;
+       width: 25%;
+       padding-bottom: 25%;
+       float: left;
+       height: 0;
+   }
+#image  img {
+       width: 100%;
+       height: 100%;
+	   margin-right: 5%;
+       position: absolute;
+       left: 0;
+   }
+   /*images*/
+   
+   #img0
+   {
+          position: relative;
+          width: 25%;
+          padding-bottom: 25%;
+          float: left;
+          height: 0;
+      }
+	  #img0   img {
+          width: 100%;
+          height: 100%;
+   	   margin-right: 5%;
+	   margin-top:18%;
+          position: absolute;
+          left: 0;
+      }
+	  
+	
+      #img1
+      {
+             position: relative;
+             width: 25%;
+             padding-bottom: 25%;
+             float: left;
+             height: 0;
+         } 
+		 
+		 #img2
+   {
+          position: relative;
+          width: 25%;
+          padding-bottom: 25%;
+          float: left;
+          height: 0;
+      } 
+	  
+	  #img3
+   {
+          position: relative;
+          width: 25%;
+          padding-bottom: 25%;
+          float: left;
+          height: 0;
+      } 
+	  
+	  #img4
+   {
+          position: relative;
+          width: 25%;
+          padding-bottom: 25%;
+          float: left;
+          height: 0;
+      } #img5
+   {
+          position: relative;
+          width: 25%;
+          padding-bottom: 25%;
+          float: left;
+          height: 0;
+      } #img6
+   {
+          position: relative;
+          width: 25%;
+          padding-bottom: 25%;
+          float: left;
+          height: 0;
+      } #img7
+   {
+          position: relative;
+          width: 25%;
+          padding-bottom: 25%;
+          float: left;
+          height: 0;
+      } #img8
+   {
+          position: relative;
+          width: 25%;
+          padding-bottom: 25%;
+          float: left;
+          height: 0;
+      } #img9
+   {
+          position: relative;
+          width: 25%;
+          padding-bottom: 25%;
+          float: left;
+          height: 0;
+      } #img10
+   {
+          position: relative;
+          width: 25%;
+          padding-bottom: 25%;
+          float: left;
+          height: 0;
+      } #img11
+   {
+          position: relative;
+          width: 25%;
+          padding-bottom: 25%;
+          float: left;
+          height: 0;
+      } #img12
+   {
+          position: relative;
+          width: 25%;
+          padding-bottom: 25%;
+          float: left;
+          height: 0;
+      } #img13
+   {
+          position: relative;
+          width: 25%;
+          padding-bottom: 25%;
+          float: left;
+          height: 0;
+      } #img14
+   {
+          position: relative;
+          width: 25%;
+          padding-bottom: 25%;
+          float: left;
+          height: 0;
+      } #img15
+   {
+          position: relative;
+          width: 25%;
+          padding-bottom: 25%;
+          float: left;
+          height: 0;
+      }
+
+/* Main */
+
+	
+
+/* Footer */
+
+	
